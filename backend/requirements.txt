@@ -5,6 +5,10 @@ pytesseract
 pdf2image
 pillow
 python-multipart
+<<<<<<< HEAD
 rapidfuzz
 gdown
 gunicorn
+=======
+
+>>>>>>> f88c8ecc553bdb2a3360afff286bf3dee1fd3173
