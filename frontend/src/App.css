@@ -1,0 +1,30 @@
+body {
+  font-family: "Times New Roman", serif;
+  background:green;
+}
+
+.page {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.subtitle {
+  margin-bottom: 20px;
+}
+
+.upload-row {
+  margin-bottom: 15px;
+}
+
+button {
+  margin-left: 10px;
+}
+
+.success {
+  color: green;
+  margin-top: 10px;
+}
+
+ul {
+  list-style-position: inside;
+}

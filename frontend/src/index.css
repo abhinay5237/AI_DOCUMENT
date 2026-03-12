@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+body {
+  background: linear-gradient(135deg, #0f172a, #020617);
+  min-height: 100vh;
+  color: #e5e7eb;
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 30px;
+}
+
+.card {
+  background: #020617;
+  border: 1px solid #1e293b;
+  border-radius: 14px;
+  padding: 24px;
+  margin-bottom: 24px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.4);
+}
+
+.upload-box {
+  border: 2px dashed #334155;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+input[type="file"] {
+  margin-top: 16px;
+}
+
+button {
+  margin-top: 20px;
+  background: linear-gradient(135deg,violet, #1e40af);
+  border: none;
+  padding: 12px 22px;
+  border-radius: 8px;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.file-list {
+  margin-top: 16px;
+}
+
+.file-item {
+  background: #020617;
+  border: 1px solid #1e293b;
+  padding: 10px 14px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
