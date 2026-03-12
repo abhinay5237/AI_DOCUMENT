@@ -5,3 +5,6 @@ pytesseract
 pdf2image
 pillow
 python-multipart
+rapidfuzz
+gdown
+gunicorn
